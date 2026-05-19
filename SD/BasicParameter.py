@@ -7,6 +7,7 @@ This code defines a class `basic_parameters` that encapsulates the fundamental p
 
 '''
 
+
 class basic_parameters:
 
     def __init__(self):
@@ -47,4 +48,3 @@ def parameters():
 if __name__ == "__main__":
     parameters()
     
-parameters()
